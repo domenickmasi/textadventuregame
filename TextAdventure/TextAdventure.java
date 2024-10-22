@@ -26,6 +26,7 @@ public class TextAdventure
     input = inScanner.nextLine();
 
     // Change ourHero's name
+    ourHero.changeName(input);
     // ADD CODE HERE
     
     // describe the starting situation. Feel free to change this
